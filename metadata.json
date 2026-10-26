@@ -1,0 +1,6 @@
+{
+  "name": "InternMate AI",
+  "description": "AI-powered intern management chatbot and mentorship portal for 100+ intern cohorts: daily task delivery, automated rubric evaluation, and meeting notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
